@@ -7,12 +7,8 @@ image: /assets/img/about.jpg
 
 ## About PEER
 
-PEER is a resource for all things people. 
+PEER is a web-enabled and intuitive source for “all things people” to expand individual and organizational success.
 
-### Mission
+### Purpose
 
-The mission of PEER is to make life easier for people.
-
-### History
-
-GSA was established by President Harry Truman on July 1, 1949, to streamline the administrative work of the federal government.  GSA consolidated the National Archives Establishment, the Federal Works Agency and its Public Buildings Administration, the Bureau of Federal Supply and the Office of Contract Settlement, and the War Assets Administration into one federal agency tasked with administering supplies and providing workplaces for federal employees
+The purpose of the PEER is to provide a single access point for information applicable to the Civilian and Military employee and their career. It will feature information from Human Resources, Talent Management, Corporate Operations, Legal, and Facilities. It will be included as part of the xx toolset and leverage its features. It will be available to the entire workforce.
