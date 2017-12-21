@@ -2,7 +2,7 @@
 layout: home
 body-class: home
 permalink: /
-hero-image: /assets/img/feature-background.jpg
+hero-image: /assets/img/project-images/171017-N-CD100-1005%20(Welcome)%201200px.jpg
 hero-text: "We believe that organizations work best when they're built for people. "
 hero-button-text: Learn more
 hero-button-link: /about/
