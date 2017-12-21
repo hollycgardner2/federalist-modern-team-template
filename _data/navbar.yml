@@ -3,18 +3,18 @@ assigned:
         text: Home
         href: pages/home.md
         permalink: /
-        show_in_menu: false
-        show_in_footer: false
-    -
-        text: About
-        href: pages/about.md
-        permalink: /about/
         show_in_menu: true
         show_in_footer: false
     -
-        text: Work
-        href: pages/projects.md
-        permalink: /projects/
+        text: Welcome
+        href: pages/welcome.md
+        permalink: /welcome/
+        show_in_menu: true
+        show_in_footer: false
+    -
+        text: Career
+        href: pages/career.md
+        permalink: /career/
         show_in_menu: true
         show_in_footer: false
         children:
@@ -29,14 +29,21 @@ assigned:
                 show_in_menu: false
                 show_in_footer: false
     -
-        text: 'Team'
-        href: pages/team.md
-        permalink: /team/
+        text: 'Connect'
+        href: pages/connect.md
+        permalink: /connect/
         show_in_menu: true
         show_in_footer: false
     -
-        text: 'Project data'
-        href: _data/projects.yml
-        show_in_menu: false
+        text: 'Essentials'
+        href: pages/essentials.md
+        permalink: /essentials/
+        show_in_menu: true
+        show_in_footer: false
+         -
+        text: 'Supervisor's Toolkit'
+        href: pages/supervisorstoolkit.md
+        permalink: /supervisors-toolkit/
+        show_in_menu: true
         show_in_footer: false
 unassigned: []
