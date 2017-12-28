@@ -12,4 +12,4 @@ banner-button-text: Learn more
 banner-button-link: /about/
 ---
 ## What we do
-PEER provides a single access point for information applicable to the Civilian and Military employee and their career. It featureS information from Human Resources, Talent Management, Corporate Operations, Legal, and Facilities. It will be available to the entire  workforce.
+PIER provides a single access point for information applicable to the Civilian and Military employee and their career. It featureS information from Human Resources, Talent Management, Corporate Operations, Legal, and Facilities. It will be available to the entire  workforce.
